@@ -1,3 +1,3 @@
 # bigdata_project
 
-README GOES HERE
+README SLACK UPDATE
